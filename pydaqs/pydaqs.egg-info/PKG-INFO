@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: pydaqs
+Version: 0.1.dev0
+Summary: DAQ wrappers for axopy.
+Home-page: https://github.com/agamemnonc/pydaqs
+Author: Agamemnon Krasoulis
+Author-email: agamemnon.krasoulis@gmail.com
+License: GPLv3
+Description: 
+        A collection of wrapper functions for DAQ packages and libraries in Python.
+        Mainly intended for internal use within IntellSensing Lab.
+        
+Platform: any

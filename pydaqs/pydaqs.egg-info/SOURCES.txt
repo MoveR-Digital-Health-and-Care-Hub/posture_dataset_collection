@@ -1,0 +1,12 @@
+README.md
+setup.py
+pydaqs/__init__.py
+pydaqs/base.py
+pydaqs/blackrock.py
+pydaqs/myo.py
+pydaqs/nidaq.py
+pydaqs.egg-info/PKG-INFO
+pydaqs.egg-info/SOURCES.txt
+pydaqs.egg-info/dependency_links.txt
+pydaqs.egg-info/requires.txt
+pydaqs.egg-info/top_level.txt

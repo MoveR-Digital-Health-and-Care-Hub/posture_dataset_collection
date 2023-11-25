@@ -1,0 +1,7 @@
+README.rst
+pytrigno.py
+setup.py
+pytrigno.egg-info/PKG-INFO
+pytrigno.egg-info/SOURCES.txt
+pytrigno.egg-info/dependency_links.txt
+pytrigno.egg-info/top_level.txt

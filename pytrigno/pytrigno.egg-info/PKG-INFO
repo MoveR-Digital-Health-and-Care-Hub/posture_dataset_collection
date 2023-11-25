@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: pytrigno
+Version: 0.1
+Summary: Simple Python interface to the Delsys wireless EMG system.
+Home-page: https://github.com/ucdrascal/pytrigno
+Author: Kenneth Lyons
+Author-email: ixjlyons@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: electromyography
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
