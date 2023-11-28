@@ -1,0 +1,14 @@
+Participant: participant8
+Day: 1
+Block: 2
+Configuration: +
+Time of Recording: 20230126153508
+----------------------------------------------------
+Window Size: 0.15
+Lowcut Frequency: 20.0
+Highcut Frequency: 450.0
+Filter Order: 4.0
+Number of Trials: 5
+Trial interval time (sec): 3.0
+Trial length time (sec): 5.0
+Channels No: 16
