@@ -1,6 +1,5 @@
 import os
 import numpy as np
-import random
 import time
 import pyqtgraph
 
@@ -21,11 +20,9 @@ from axopy.gui.graph import SignalWidget
 from axopy.gui.prompts import ImagePrompt
 
 from PyQt5 import QtWidgets, QtGui, QtCore
-from PyQt5.QtCore import QPoint, QSize
 from PyQt5.QtGui import QPainterPath, QColor, QPalette, QPixmap, QFont
 
 from cyberglove import CyberGlove
-from PyQt5.QtWidgets import QLabel
 
 import winsound
 
